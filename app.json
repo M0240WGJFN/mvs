@@ -1,8 +1,8 @@
 {
-  "name": "ml2evs",
-  "description": "ml2evs",
+  "name": "mvs",
+  "description": "mvs",
   "keywords": [
-    "SS."
+    "S6S."
   ],
   "env": {
     "PROTOCOL": {
